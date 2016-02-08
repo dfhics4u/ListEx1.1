@@ -7,7 +7,7 @@
 * Print out the index of 'python'
 * Print out the number of times 'python' appears in the list
 * Create a copy of your list
-* Use the alist.pop() method on your copied list
+* Use the alist.pop() method on your copied list and then print your list again
 * Print the 3rd through 5th element of your copied list using list slicing
 
 Questions
