@@ -1,5 +1,5 @@
-# ListEx1.1
-#Review and practise working with lists and their methods.
+# ListEx1.1 #
+###Review and practise working with lists and their methods.###
 Create an empty list
 Ask the user for 5 pieces of information and append each one into your list.
 Output the list so that it is sorted in reverse order
