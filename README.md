@@ -9,6 +9,6 @@ Print out the number of times 'python' appears in the list
 
 
 Questions
-1. What does the alist.index() method return?
-2. While alist.count(object) will return the number of times an object appears in your list, how can you check if a given object is in your list?
-3. What is the difference between a method and a function?
+*1. What does the alist.index() method return?
+*2. While alist.count(object) will return the number of times an object appears in your list, how can you check if a given object is in your list?
+*3. What is the difference between a method and a function?
