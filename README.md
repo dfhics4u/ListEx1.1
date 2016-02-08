@@ -1,11 +1,11 @@
 # ListEx1.1 #
 ###Review and practise working with lists and their methods.###
-Create an empty list
-Ask the user for 5 pieces of information and append each one into your list.
-Output the list so that it is sorted in reverse order
-Insert the word 'python' into the 3rd index of the list
-Print out the index of 'python'
-Print out the number of times 'python' appears in the list
+* Create an empty list
+* Ask the user for 5 pieces of information and append each one into your list.
+* Output the list so that it is sorted in reverse order
+* Insert the word 'python' into the 3rd index of the list
+* Print out the index of 'python'
+* Print out the number of times 'python' appears in the list
 
 
 Questions
